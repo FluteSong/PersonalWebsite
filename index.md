@@ -1,37 +1,20 @@
-# Welcome to Ruidi's PersonalWebsite
+# 欢迎光临宋瑞笛的个人网站
 
-You can use the [editor on GitHub](https://github.com/FluteSong/PersonalWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![微信图片_20190408192503](C:\Users\SABS-LAB\Desktop\微信图片_20190408192503.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 宋瑞笛  深圳市经纬量化科技有限公司  执行董事
 
-### Markdown
+## 广东省 深圳市
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+手机号（微信）：15989542318
 
-```markdown
-Syntax highlighted code block
+e-mail：flute68@163.com
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FluteSong/PersonalWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
